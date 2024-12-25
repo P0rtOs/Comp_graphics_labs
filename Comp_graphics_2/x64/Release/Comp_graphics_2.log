@@ -1,0 +1,32 @@
+﻿  Camera.cpp
+  ShaderProgram.cpp
+  stb_image.cpp
+  GenShapesVertices.cpp
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(78,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(79,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(80,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(86,74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(87,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\GenShapesVertices.cpp(88,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(96,44): warning C4305: 'argument': truncation from 'double' to 'float'
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(143,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(187,56): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(193,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(196,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(202,53): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(205,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(230,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(231,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(235,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(236,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(237,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(238,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\labs\graf3\Comp_graphics_labs\Comp_graphics_2\Main.cpp(244,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 408 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Comp_graphics_2.vcxproj -> E:\labs\graf3\Comp_graphics_labs\x64\Release\Comp_graphics_2.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

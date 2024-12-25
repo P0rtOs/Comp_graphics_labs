@@ -1,0 +1,2 @@
+﻿I:\VS\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1391,5): warning MSB8012: TargetPath(E:\labs\graf3\Comp_graphics_labs\x64\Debug\Comp_graphics_2.exe) does not match the Linker's OutputFile property value (). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+  Comp_graphics_2.vcxproj -> E:\labs\graf3\Comp_graphics_labs\x64\Debug\Comp_graphics_2.exe
